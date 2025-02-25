@@ -7,7 +7,7 @@
 - Aula: Desenvolvimento Web II
   
 #
-### Link: https://alicelsp.github.io/CidadesDoMundo/
+### Link: https://alicelsp.github.io/CidadesPeloMundo/
 #
 
 <img src="./img/SiteCidadesPeloMundo-Ativ-DevWebII-25-02.png" alt="layout Website">
